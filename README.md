@@ -16,10 +16,10 @@ CRIAR UMA  APLICAÇÃO INTERNET  QUEA CONTENHA:
 4. UM MÓDULO FORMULARIO PARA RECEPÇÃO DOS DADOS RECEBIDOS NA OPÇÃO ANTERIOR. 
 5. UM MÓDULO DE LISTAGEM COM UMA LISTA DE NOMES.
 
-Site escrito principalmente em PHP, criado para a primeira avaliação prática da disciplina de programação WEB. 
+  Site escrito principalmente em PHP, criado para a primeira avaliação prática da disciplina de programação WEB. 
 O foco do site não foi o design e sim o c;odigo em si e a responsividade do site com todos os tipos de telas.
 Nesse projeto não foi usado POO e sim sessões que salvam os dados do formulário no cache do navegador.
-Os dados armazenados säo exibidos em "Consultas" apenas como uma forma de visualizar o funcionamento do código site, 
-mas nenhuma informação é enviada para nenhum servidor. É compreensivel que a forma que os dados são tratados não é segura, mas
-lembrando que o objetivo era apenas uma avaliação e em projetos reais seria feito com mais cuidado e pensando principalmente em
-segurança e desempenho.
+  Os dados armazenados säo exibidos em "Consultas" apenas como uma forma de visualizar o funcionamento do código site, 
+mas nenhuma informação é enviada para nenhum servidor, nenhum cadastro é realmente realizado e nenhum email é enviado para você.
+É compreensivel que a forma que os dados são tratados não é segura, mas lembrando que o objetivo era apenas uma avaliação e em 
+projetos reais seria feito com mais cuidado e pensando principalmente em segurança e desempenho.
